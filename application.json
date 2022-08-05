@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "62d565629a04633267d7497a",
+  "color": "#F5D1D1",
+  "icon": "sunflower",
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}
